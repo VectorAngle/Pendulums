@@ -1,5 +1,6 @@
 # Pendulums
 ## Eng
+### The app only works on windows
 WARNING! The app is in its alpha version and might have a lot of bugs.
 
 Put 4 numbers divided by spaces in INPUT.TXT.
