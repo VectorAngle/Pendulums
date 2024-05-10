@@ -1,5 +1,4 @@
-# Pendulums
-## Eng
+# Eng
 
 ### The app only works on Windows
 
@@ -15,7 +14,7 @@ Length ratio = a : b
 
 Speed ratio = c : d
 
-## Rus
+# Rus
 
 ### Приложение работает только на Windows
 
