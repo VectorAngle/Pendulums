@@ -1,8 +1,8 @@
 # Eng
 
-### The app only works on Windows
+### WARNING! The app only works on Windows
 
-### WARNING! The app is in its alpha version and might have a lot of bugs.
+The app is in its alpha version and might have a lot of bugs.
 
 This app simulates movemement of 2 pendulums without gravity and traces a line.
 
@@ -20,9 +20,7 @@ Speed ratio = c : d
 
 # Rus
 
-### Приложение работает только на Windows
-
-### ВНИМАНИЕ! Приложение в alpha версии и может иметь много багов.
+### ВНИМАНИЕ! Приложение работает только на Windows
 
 Это приложение симулирует движение 2-х маятников без гравитации и чертит линию.
 
