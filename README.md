@@ -1,6 +1,8 @@
 # Pendulums
 ## Eng
-### The app only works on windows
+
+### The app only works on Windows
+
 WARNING! The app is in its alpha version and might have a lot of bugs.
 
 Put 4 numbers divided by spaces in INPUT.TXT.
@@ -14,6 +16,8 @@ Length ratio = a : b
 Speed ratio = c : d
 
 ## Rus
+
+### Приложение работает только на Windows
 
 ВНИМАНИЕ! Приложение в alpha версии и может иметь много багов.
 
