@@ -2,8 +2,6 @@
 
 ### WARNING! The app only works on Windows
 
-The app is in its alpha version and might have a lot of bugs.
-
 This app simulates movemement of 2 pendulums without gravity and traces a line.
 
 ## Instructions
